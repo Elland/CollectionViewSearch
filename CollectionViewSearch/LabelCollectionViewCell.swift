@@ -2,5 +2,5 @@ import UIKit
 
 class LabelCollectionViewCell: UICollectionViewCell
 {
-    @IBOutlet var label:UILabel?
+    @IBOutlet var label: UILabel?
 }
